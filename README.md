@@ -1,4 +1,4 @@
-# RustFest Speakers Guide
+# Rustaceans Speakers Guide
 
 ## About this repo
 
