@@ -1,6 +1,6 @@
 # Rustaceans Speakers Guide
 
-## About this repo
+## About
 
 This repository contains the speakers guide we wrote and used for all RustFest editions.
 We publish it for other conferences to adapt and use.
@@ -8,17 +8,6 @@ We publish it for other conferences to adapt and use.
 The parts are enumerated.
 Start at [0-speakers_guide.md](0-speakers_guide.md).
 
-## Authors
-
-The original version of this guide was written by
-[Florian](https://twitter.com/Argorak) for RustFest 2016.
-
-[Katharina](https://twitter.com/katheyrina) wrote large parts of the
-[section on ableist language](3-ableism.md) and provided feedback and
-additions to the original version.
-
-[James](https://twitter.com/varjmes) provided feedback and additions
-to the original version.
 
 ## Contributing
 
